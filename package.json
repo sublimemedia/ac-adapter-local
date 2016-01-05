@@ -1,6 +1,6 @@
 {
   "name": "@sublimemedia/ac-adapter-local",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "An api-connector adapter intended for local use.",
   "main": "./dist/ac-adapter-local",
   "scripts": {
